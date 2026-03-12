@@ -1,8 +1,8 @@
-
+import Index from './pages/index'
 export default function App() {
   return (
-    <div>
-      
+   <div>
+    <Index></Index>
     </div>
   )
 }
